@@ -22,5 +22,5 @@
 <h1 align="center">Certificate</h1>
 
 <p align="center">
-![MySQL - September 2024 - Certificate](https://github.com/user-attachments/assets/3b21ca3b-f522-4fe0-972a-5550bbf7d1f2)
+  <img src="https://github.com/user-attachments/assets/3b21ca3b-f522-4fe0-972a-5550bbf7d1f2" />
 </p>
